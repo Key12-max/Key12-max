@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Membership managment Project
+- 🤔 I’m looking for Software Developer posistion
+- 💬 Ask me about: Python, and MERN
+- 📫 How to reach me: https://www.linkedin.com/in/kiros-haftu-6bb950159
+
+
 <!--
 **Key12-max/Key12-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
