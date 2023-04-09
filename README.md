@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+- 🌱 My Name is Kiros Haftu, I have Bachlors Degree on Electrical and computer engineering.
+-  💬 Ask me about: Python, MERN, and Industial Automation control system.
 - 🔭 I’m currently working on Membership managment Project
 - 🤔 I’m looking for Software Developer posistion
-- 💬 Ask me about: Python, and MERN
-- 📫 How to reach me: https://www.linkedin.com/in/kiros-haftu-6bb950159
+
+
 
 
 <!--
