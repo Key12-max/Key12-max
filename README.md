@@ -12,7 +12,8 @@
 
 ### Connect with me:
 
-[![Linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/kiros-haftu-6bb950159?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9eo04nOoSK%2BMMRBrds3IbQ%3D%3D)
+[![linkedin logo](https://skillicons.dev/icons?i=linkedin "Kiros's LinkedIn")](https://www.linkedin.com/in/kiros-haftu-6bb950159/)
+
 
 ### Languages and Tools:
 
