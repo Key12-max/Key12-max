@@ -11,8 +11,10 @@
 - ⚡ Fun fact: I love to play scoccer.
 
 ### Connect with me:
-LinkedIn 
-|[![linkedin logo](https://skillicons.dev/icons?i=linkedin "Kiros's LinkedIn")](https://www.linkedin.com/in/kiros-haftu-6bb950159/)|
+  GitHub  | LinkedIn
+ :---:  |  :---:
+
+ [![github logo](https://skillicons.dev/icons?i=github "Kiros's GitHub")](https://github.com/Key12-max)  | [![linkedin logo](https://skillicons.dev/icons?i=linkedin "Kiros's LinkedIn")](https://www.linkedin.com/in/kiros-haftu-6bb950159/)
 
 
 ### Languages and Tools:
