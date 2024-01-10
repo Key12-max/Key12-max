@@ -7,7 +7,7 @@
 - 🌱 I’m currently working on python projects.
 - 💬 Ask me about: Python, MERN, and Industial Automation control system.
 - 👯 I’m looking to collaborate with other to work on more projects as software developer.
-- 🥅 2023 Goals: Learn more about coding
+- 🥅 2024 Goals: Learn more about coding
 - ⚡ Fun fact: I love to play scoccer.
 
 ### Connect with me:
